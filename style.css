@@ -1,2 +1,2 @@
 html { height: 100vw; margin: 0; padding: 0; } 
-body { font-family: 'Rubik'; background: linear-gradient(180deg, #640231 0%, #290114 100%); margin: 1vh; min-height: 100%; }
+body { font-family: 'Rubik'; font-size: 22px; background: linear-gradient(180deg, #640231 0%, #290114 100%); margin: 1vh; min-height: 100%; }
